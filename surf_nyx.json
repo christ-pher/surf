@@ -25,6 +25,6 @@
         }
     },
     "settings": {
-        "mp_roundtime": 60,
+        "mp_roundtime": 60
     }
 }
